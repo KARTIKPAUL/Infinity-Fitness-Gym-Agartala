@@ -4,20 +4,20 @@ import "slick-carousel/slick/slick-theme.css";
 
 const testimonials = [
   {
-    name: "Sanjana Pal",
-    feedback: "Best gym in our area and an excellent atmosphere and highly skilled trainers. The environment is clean, welcoming, and motivating, making every workout enjoyable. The trainers are knowledgeable and attentive, providing personalized guidance that really helps achieve fitness goals. Overall, it’s a great place to work out and stay fit.😊😊😊",
-    image: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=600",
+    name: "DEBASISH DHAR",
+    feedback: "Neat and clean atmosphere. Cooperative Owner. This gym is good in this area.",
+    image: "https://images.pexels.com/photos/4475024/pexels-photo-4475024.jpeg?auto=compress&cs=tinysrgb&w=600",
     rating: 5,
   },
   {
-    name: "Ainesh Banerjee",
-    feedback: "This gym is a fantastic find .The trainer are incredibly friendly and knowledgeable always ready to offer guidance and support ,no matter your fitness level .The equipment is top notch,well maintained and offers a wide variety of all type workout .The atmosphere is positive and motivating ..",
+    name: "Papan Debnath",
+    feedback: "Environment friendly Owner is very kind and helpful and u will not have any complain. All types of workouts machines are available. …",
     image: "https://images.pexels.com/photos/4475024/pexels-photo-4475024.jpeg?auto=compress&cs=tinysrgb&w=600",
     rating: 4,
   },
   {
-    name: "Supratik Mondal",
-    feedback: "Probably the best budget gym (if not the best) out there in Maheshtala+Budge Budge.. They offer premium experience at a reasonable cost with decent area for workout, helpful trainers, almost everything you can ask for. A positive environment, people support each other... Been working out since May, and I've had a good experience.",
+    name: "Shubham Das",
+    feedback: "Best gym for heavy workout. Advanced equipment & well maintained. The owner of this gym is too friendly & trains everyone very carefully.",
     image: "https://images.pexels.com/photos/6260921/pexels-photo-6260921.jpeg?auto=compress&cs=tinysrgb&w=600",
     
     rating: 4,
