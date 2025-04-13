@@ -9,13 +9,13 @@ const PrivacyPolicy = () => {
       <div className="p-6">
         <PageHeader title="Privacy Policy" path="privacy-policy" name="privacypolicy" />
           <div className="max-w-4xl mx-auto bg-white shadow-lg rounded-lg p-6">
-            <h1 className="text-3xl font-bold mb-4">Privacy Policy for A Builder Hut Box Gym</h1>
-            <p className="text-gray-700">Effective Date: 25/02/2025</p>
+            <h1 className="text-3xl font-bold mb-4">Privacy Policy for Infinity Fitness Box Gym</h1>
+            <p className="text-gray-700">Effective Date: 13/04/2025</p>
 
             <section className="mt-4">
               <h2 className="text-xl font-semibold">1. Introduction</h2>
               <p className="text-gray-700">
-                Welcome to A Builder Hut Box Gym. Your privacy is important to us. This Privacy Policy explains how we collect,
+                Welcome to Infinity Fitness Box Gym. Your privacy is important to us. This Privacy Policy explains how we collect,
                 use, and protect your personal information when you visit our website, sign up for our services, or
                 interact with us in any way.
               </p>
@@ -43,10 +43,10 @@ const PrivacyPolicy = () => {
             <section className="mt-4">
               <h2 className="text-xl font-semibold">4. Contact Us</h2>
               <p className="text-gray-700">If you have any questions, please contact us at:</p>
-              <p className="text-gray-700 font-semibold">A Builder Hut Box Gym</p>
-              <p className="text-gray-700">budge budge trunk road, Kolkata, India, West Bengal</p>
-              <p className="text-gray-700">Email: <strong> abuilderhut22@gmail.com</strong></p>
-              <p className="text-gray-700">Phone: <strong>082769 03867</strong></p>
+              <p className="text-gray-700 font-semibold">Infinity Fitness Box Gym</p>
+              <p className="text-gray-700">Durjoynagar, Near Institute of Nursing Science, Agartala, India, Tripura</p>
+              <p className="text-gray-700">Email: <strong> amitroy.08091986@gmail.com</strong></p>
+              <p className="text-gray-700">Phone: <strong>070056 42234</strong></p>
             </section>
 
             <Link to="/" className="text-primary-500 underline mt-4 inline-block">

@@ -13,10 +13,10 @@ const AboutUs = () => {
             transition={{ duration: 1 }}
           >
             <h1 className="text-4xl md:text-5xl font-bold mb-6 text-yellow-400 drop-shadow-lg">
-              About A Builder Hut  Fitness Gym
+              About Infinity Fitness  Fitness Gym
             </h1>
             <p className="text-lg mb-8 max-w-2xl mx-auto text-gray-300">
-              Welcome to A Builder Hut  Fitness Gym – The Premier Fitness Destination in Mahestala! We offer a 
+              Welcome to Infinity Fitness  Fitness Gym – The Premier Fitness Destination in Mahestala! We offer a 
               fully air-conditioned, comfortable environment for all. Join our community and achieve 
               your fitness goals with us!
             </p>
@@ -67,10 +67,10 @@ const AboutUs = () => {
           >
             <h2 className="text-3xl font-bold mb-6 text-yellow-400">Find Us</h2>
             <div className="space-y-4 text-lg text-gray-300">
-              <p><MapPin className="inline mr-2" /> budge budge trunk road, Kolkata, India, West Bengal</p>
+              <p><MapPin className="inline mr-2" /> Durjoynagar, Near Institute of Nursing Science, Agartala, India, Tripura</p>
               <p><Phone className="inline mr-2" />  
-              082769 03867</p>
-              <p><Mail className="inline mr-2" /> abuilderhut22@gmail.com</p>
+              070056 42234</p>
+              <p><Mail className="inline mr-2" /> </p>
             </div>
           </motion.div>
 
